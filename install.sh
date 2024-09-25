@@ -62,14 +62,14 @@ check_token() {
   echo -e "${YELLOW}MASUKAN AKSES TOKEN :${NC}"
   read -r USER_TOKEN
 
-  if [ "$USER_TOKEN" = "wanzyxamel" ]; then
+  if [ "$USER_TOKEN" = "wanzyXxyro" ]; then
     echo -e "${GREEN}AKSES BERHASIL${NC}}"
   else
     echo -e "${GREEN}Buy dulu Gih Ke Wanzyy${NC}"
     echo -e "${YELLOW}TELEGRAM : @wanzyymods${NC}"
     echo -e "${YELLOW}WHATSAPP : 62895340844867{NC}"
     echo -e "${YELLOW}HARGA TOKEN : 10K FREE UPDATE JIKA ADA TOKEN BARU${NC}"
-    echo -e "${YELLOW}©FadhostOffc${NC}"
+    echo -e "${YELLOW}©WanzyyOffc${NC}"
     exit 1
   fi
   clear
